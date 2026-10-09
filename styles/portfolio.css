@@ -50,7 +50,7 @@ header{
     background-color: #FFF8F3;
     background: url("../images/developer.png"), url("../images/header_bg.png"), #FFF8F3;
     background-repeat: no-repeat;
-    background-position: top left, bottom right;
+    background-position: 23px 38px, bottom right;
     padding-top: 50px;
 }
 nav{
@@ -168,7 +168,7 @@ nav .manu a{
     gap: 24px;
 }
 .resume-container .section-title{
-    color: #474747
+    color: #474747;
     font-size: 30px;
     margin-bottom: 30px;
 }
